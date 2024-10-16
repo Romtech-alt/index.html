@@ -14,8 +14,7 @@
             <li><a href="№">Студія</a></li>
             <li><a href="">Портфоліо</a></li>
             <li><a href="">Контакти</a></li>
-            
-        </ul>
+         </ul>
     </nav>
     <nav>
         <ul>
